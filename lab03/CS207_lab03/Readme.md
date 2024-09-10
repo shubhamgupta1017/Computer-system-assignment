@@ -50,9 +50,6 @@ When running the `ls` command across different applications, the observed times 
 - `./part02_shared` (shared memory communication): `0.0021` seconds
 - `./part02_pipe` (message passing using pipes): `0.0020` seconds
 
-Certainly! Here’s a revised version of the "Performance Analysis" section that provides a more technical explanation without analogies:
-
----
 
 ## Performance Analysis
 
