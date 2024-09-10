@@ -14,8 +14,7 @@
 
 ### Time Measurement
 
-To measure the execution time of a command, you can use the `time` utility provided in the `bin` directory.
-
+To measure the execution time of a command, using classic isolated technique
 **Example:**
 ```bash
 cd bin
