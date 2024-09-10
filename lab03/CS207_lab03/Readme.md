@@ -14,7 +14,8 @@
 
 ### Time Measurement
 
-To measure the execution time of a command, using classic isolated technique
+To measure the execution time of a command, using classic isolated technique:
+
 **Example:**
 ```bash
 cd bin
