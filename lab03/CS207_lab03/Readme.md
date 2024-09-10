@@ -11,16 +11,16 @@
    ```
 
 ## File structure
-   src - contains c files for each application
-      -- time.c
-      -- part02_shared.c
-      -- part02_pipe.c
-   bin - contains executable for each application
-      -- time
-      -- part02_shared
-      -- part02_pipe
-   Readme.md - information about project
-   Makefile - buildsystem commands
+   src - contains c files for each application:
+      -- time.c:
+      -- part02_shared.c:
+      -- part02_pipe.c:
+   bin - contains executable for each application:
+      -- time:
+      -- part02_shared:
+      -- part02_pipe:
+   Readme.md - information about project:
+   Makefile - buildsystem commands:
    
 ## Running the Applications
 
