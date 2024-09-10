@@ -10,6 +10,18 @@
    make
    ```
 
+## File structure
+   src - contains c files for each application
+      -- time.c
+      -- part02_shared.c
+      -- part02_pipe.c
+   bin - contains executable for each application
+      -- time
+      -- part02_shared
+      -- part02_pipe
+   Readme.md - information about project
+   Makefile - buildsystem commands
+   
 ## Running the Applications
 
 ### Time Measurement
@@ -64,3 +76,6 @@ The observed performance differences between the various methods of inter-proces
 3. **Message Passing Using Pipes (`./part02_pipe`):** 
    The execution time is the lowest at `0.0020` seconds when using message passing with pipes. Pipes provide a structured mechanism for inter-process communication by creating a unidirectional channel through which data can be passed. This method is highly efficient due to its minimal overhead in data transfer and synchronization. 
    There is very less difference between shared memory and Message Passing Using Pipes
+
+### Author:- Shubham Gupta
+   entry number:- 2023aib1017
